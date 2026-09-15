@@ -1,0 +1,19 @@
+# Authentication and environment secrets
+.codex/
+**/.codex/
+**/auth.json
+.env
+.env.*
+!.env.example
+
+# Raw recordings are evidence to review, not material to publish automatically.
+sessions/raw/*
+!sessions/raw/.gitkeep
+
+# Generated and temporary files
+output/
+tmp/
+*.tmp
+*.swp
+*~
+
