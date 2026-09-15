@@ -51,8 +51,10 @@ ignored by Git. Review and redact it before placing any portion in
 4. `docs/CODESPACES-RECORDING.md` — exact recording and publication procedure.
 5. `docs/OPENAI-CODEX-NOTES.md` — account/authentication boundary and sources.
 6. `docs/GITHUB-CODESPACES-IMPORT.md` — browser-only repository setup.
-7. `AGENTS.md` — standing instructions for Codex or another coding agent.
-8. `PLAN.md` — the proposed next steps and definition of done.
+7. `docs/CODESPACES-TO-CODEX-WORKFLOW.md` — the complete bridge from the
+   ChatGPT starter ZIP to a recorded Codex session.
+8. `AGENTS.md` — standing instructions for Codex or another coding agent.
+9. `PLAN.md` — the proposed next steps and definition of done.
 
 ## Research principle
 

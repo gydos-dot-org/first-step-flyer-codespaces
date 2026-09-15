@@ -1,0 +1,12 @@
+{
+  "name": "first-step-flyer-codespaces",
+  "private": true,
+  "scripts": {
+    "render": "node scripts/render-flyer.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.35.4"
+  }
+}

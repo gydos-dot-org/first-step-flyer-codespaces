@@ -49,18 +49,20 @@ Use exactly this wording unless the project owner approves another change:
 
 > The First Step Beginners AA Group holds a meeting at Trinity UMC in Downtown
 > Durham, NC. We are unaffiliated with, but intentionally located near The Open
-> Table Ministry’s Free Store and Resource Weekly Event. This was done
-> purposely, as we hope to also be welcoming and accessible to the population
+> Table Ministry’s Free Store and Resource Weekly Event. This was purposely
+> done, as we hope to also be welcoming and accessible to the population
 > that frequents the Open Table, a population that is often experiencing
 > Housing Insecurity and Homelessness.
 >
 > The First Step Beginners AA Group will discuss the first four steps with each
 > topic being anchored in official AA literature.
 
-Punctuation specifically requested:
+Punctuation and order specifically requested:
 
 - A comma after “unaffiliated with”.
 - A comma after “purposely”.
+- On 2026-09-15, the project owner authorized changing “This was done
+  purposely” to “This was purposely done.”
 
 ## Entrance, bus, and parking guide
 
@@ -86,19 +88,32 @@ Punctuation specifically requested:
 - PARKING: the prior draft listed Lot #8 at $2.25 per hour and Church St. Garage
   with the first hour free and later time at $2.25 per hour.
 
-**Blocking factual issue:** the project owner has stated that the entrance
-information changed after the meeting began. The old directions above are not
-approved for republication. Replace them only with newly supplied or confirmed
-information.
+### Confirmed replacement entrance information (project owner, 2026-09-15)
+
+- There is one entrance for this meeting; it is both the main meeting entrance
+  and the accessible entrance.
+- Approach from N. Church St. and follow the sign marked “ACCESS RAMP.”
+- Continue up the long ramp to the door at the top.
+- The City Hall-side entrance is not an entrance for this meeting. The Open
+  Table Ministries Free Store event takes place around that side of the church.
+- On the guide map, “N. Church St.” must follow the street beside the purple
+  route, rather than appearing perpendicular to it.
+- Label Business 15 as “N. Mangum St. / Business 15.”
+- The bus stop should use the schedule wording “Morgan St at Mangum St” on the
+  map and beneath BUS; do not add “N.” to this stop name.
+- Label the left-to-right cross street beginning below Rigsbee Ave as “E. Chapel
+  Hill St.” Label the same roadway “Liberty St.” after it crosses N. Mangum St.
+- Retain the “E. Morgan St.” label on its mapped street.
+- Newly supplied photographs `20260908_153053.jpg`, `3019.jpg`, `3020.jpg`, and
+  `3021.jpg` document the Access Ramp sign, ramp, and door at the top.
 
 ## Footer
 
 - Remove “RECOVERY, UNITY, AND SERVICE” from the footer.
 - Retain a compact location/footer structure only if it does not compete with
   the guide.
-- The record is ambiguous about whether the separate footer contact block should
-  remain. The last explicit instruction removed contacts from the guide, not
-  clearly from the footer. Confirm this before final publication.
+- The project owner confirmed on 2026-09-15 that the separate footer contact
+  block must remain. Contacts stay out of the entrance guide itself.
 
 The original requested footer was:
 

@@ -9,11 +9,18 @@
 # Raw recordings are evidence to review, not material to publish automatically.
 sessions/raw/*
 !sessions/raw/.gitkeep
+node_modules/
 
 # Generated and temporary files
-output/
+output/*
+!output/first-step-flyer-300dpi.png
+!output/first-step-flyer-print.pdf
+!output/archive/
+!output/archive/first-step-flyer-fallback-approved-2026-09-15.png
+!output/archive/first-step-flyer-fallback-approved-2026-09-15.pdf
+!output/archive/FINAl_FINAL_FINAL_First_Step_Beginners_Flyer_y2026m09d15_a1000_codex_gh_codespace.png
+!output/archive/FINAl_FINAL_FINAL_First_Step_Beginners_Flyer_y2026m09d15_a1000_codex_gh_codespace.pdf
 tmp/
 *.tmp
 *.swp
 *~
-

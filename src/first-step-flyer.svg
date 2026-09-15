@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8.5in" height="11in" viewBox="0 0 816 1056">
+  <defs>
+    <clipPath id="sign"><rect x="36" y="34" width="350" height="143" rx="5"/></clipPath>
+    <clipPath id="ramp"><rect x="36" y="190" width="475" height="245" rx="6"/></clipPath>
+    <clipPath id="door"><rect x="522" y="190" width="258" height="245" rx="6"/></clipPath>
+    <clipPath id="start"><rect x="430" y="754" width="350" height="185" rx="5"/></clipPath>
+    <style>
+      .sans{font-family:"DejaVu Sans",Arial,sans-serif}.serif{font-family:"DejaVu Serif",Georgia,serif}
+      .ink{fill:#262626}.muted{fill:#555}.purple{fill:#5f3b7d}.white{fill:#fff}
+      .label{font:700 13px "DejaVu Sans",Arial,sans-serif;letter-spacing:1.3px}
+    </style>
+  </defs>
+  <rect width="816" height="1056" fill="#f5f1e8"/>
+  <rect x="15" y="15" width="786" height="1026" rx="8" fill="none" stroke="#454545" stroke-width="5"/>
+
+  <!-- The supplied wooden sign provides the group name. -->
+  <image x="36" y="0" width="350" height="263" xlink:href="../assets/originals/first-step-beginners-sign.jpg" preserveAspectRatio="xMidYMid slice" clip-path="url(#sign)"/>
+  <rect x="36" y="34" width="350" height="143" rx="5" fill="none" stroke="#343434" stroke-width="2"/>
+  <text x="414" y="74" class="sans purple" font-size="35" font-weight="800">TUESDAYS 11am</text>
+  <text x="414" y="108" class="sans ink" font-size="17" font-weight="700">At TRINITY UMC in</text>
+  <text x="414" y="134" class="sans ink" font-size="17" font-weight="700">DOWNTOWN DURHAM, NC</text>
+  <rect x="414" y="151" width="330" height="2" fill="#5f3b7d"/>
+
+  <!-- The actual meeting entrance: ramp approach and door at top. -->
+  <image x="36" y="190" width="475" height="356" xlink:href="../assets/originals/3019.jpg" preserveAspectRatio="xMidYMid slice" clip-path="url(#ramp)"/>
+  <image x="522" y="190" width="258" height="245" xlink:href="../assets/originals/3020.jpg" preserveAspectRatio="xMidYMid slice" clip-path="url(#door)"/>
+  <rect x="49" y="390" width="445" height="33" rx="16" fill="#2c2c2c" opacity=".94"/>
+  <text x="271" y="412" class="sans white" font-size="16" font-weight="800" text-anchor="middle">MEETING ENTRANCE • DOOR AT TOP OF RAMP</text>
+  <rect x="535" y="390" width="232" height="33" rx="16" fill="#5f3b7d" opacity=".96"/>
+  <text x="651" y="412" class="sans white" font-size="15" font-weight="800" text-anchor="middle">THIS DOOR</text>
+
+  <rect x="36" y="450" width="744" height="227" rx="6" fill="#fff" stroke="#c7c0b5"/>
+  <text x="58" y="480" class="serif ink" font-size="15.2">
+    <tspan x="58" dy="0">The First Step Beginners AA Group holds a meeting at Trinity UMC in Downtown</tspan>
+    <tspan x="58" dy="23">Durham, NC. We are unaffiliated with, but intentionally located near The Open</tspan>
+    <tspan x="58" dy="23">Table Ministry’s Free Store and Resource Weekly Event. This was done purposely,</tspan>
+    <tspan x="58" dy="23">as we hope to also be welcoming and accessible to the population that frequents</tspan>
+    <tspan x="58" dy="23">the Open Table, a population that is often experiencing Housing Insecurity and</tspan>
+    <tspan x="58" dy="23">Homelessness.</tspan>
+    <tspan x="58" dy="31">The First Step Beginners AA Group will discuss the first four steps with each</tspan>
+    <tspan x="58" dy="23">topic being anchored in official AA literature.</tspan>
+  </text>
+
+  <rect x="36" y="686" width="744" height="53" rx="5" fill="#303030"/>
+  <text x="408" y="704" class="sans white" font-size="10.5" font-weight="700" text-anchor="middle">BUS • Outbound GoDurham 4B to Morgan St. &amp; Mangum St.</text>
+  <text x="408" y="729" class="sans white" font-size="21" font-weight="800" text-anchor="middle">ENTRANCE AND PARKING GUIDE</text>
+
+  <!-- Simple vector map; north-south street labels follow their streets. -->
+  <rect x="36" y="754" width="375" height="250" rx="5" fill="#e9e6df" stroke="#aaa"/>
+  <path d="M64 790 H392 M64 955 H392" stroke="#fff" stroke-width="38"/>
+  <path d="M115 760 V996 M334 760 V996" stroke="#fff" stroke-width="40"/>
+  <text x="228" y="784" class="sans ink" font-size="13" font-weight="700" text-anchor="middle">E. CHAPEL HILL ST.</text>
+  <text x="228" y="949" class="sans ink" font-size="13" font-weight="700" text-anchor="middle">E. PARRISH ST.</text>
+  <text x="105" y="884" class="sans ink" font-size="13" font-weight="700" text-anchor="middle" transform="rotate(-90 105 884)">N. CHURCH ST.</text>
+  <text x="343" y="884" class="sans ink" font-size="12" font-weight="700" text-anchor="middle" transform="rotate(-90 343 884)">N. MANGUM ST. / BUSINESS 15</text>
+  <rect x="139" y="818" width="171" height="100" rx="4" fill="#b9a98f" stroke="#4a4036" stroke-width="2"/>
+  <text x="224" y="856" class="sans ink" font-size="16" font-weight="800" text-anchor="middle">TRINITY UMC</text>
+  <text x="224" y="879" class="sans ink" font-size="12" font-weight="700" text-anchor="middle">215 N. Church St.</text>
+  <path d="M115 916 L139 916 L139 888" fill="none" stroke="#5f3b7d" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="139" cy="888" r="9" fill="#5f3b7d"/>
+  <text x="151" y="907" class="sans purple" font-size="12" font-weight="800">ACCESS RAMP</text>
+  <text x="223" y="988" class="sans muted" font-size="11" text-anchor="middle">Map is a simplified orientation guide • not to scale</text>
+
+  <image x="430" y="754" width="350" height="263" xlink:href="../assets/originals/20260908_153053.jpg" preserveAspectRatio="xMidYMid slice" clip-path="url(#start)"/>
+  <rect x="430" y="754" width="350" height="185" rx="5" fill="none" stroke="#777"/>
+  <rect x="443" y="765" width="324" height="54" rx="5" fill="#fff" opacity=".94"/>
+  <text x="605" y="787" class="sans purple" font-size="14" font-weight="800" text-anchor="middle">FROM N. CHURCH ST.</text>
+  <text x="605" y="808" class="sans ink" font-size="12.5" font-weight="700" text-anchor="middle">Follow the sign marked “ACCESS RAMP.”</text>
+  <text x="430" y="950" class="sans ink" font-size="14" font-weight="800">ONE ENTRANCE FOR THIS MEETING</text>
+  <text x="430" y="970" class="sans ink" font-size="12.5">Continue up the long ramp to the door at the top.</text>
+  <text x="430" y="988" class="sans ink" font-size="11.5">City Hall-side doors are not the meeting entrance.</text>
+  <text x="430" y="1006" class="sans ink" font-size="10.5">PARKING • Lot #8: $2.25/hr</text>
+  <text x="430" y="1022" class="sans ink" font-size="10.5">• Church St. Garage: first hour free; then $2.25/hr</text>
+  <text x="36" y="1037" class="sans ink" font-size="9.8">Trinity UMC • 215 N Church St, Durham, NC 27701</text>
+  <text x="780" y="1037" class="sans ink" font-size="9.5" font-weight="700" text-anchor="end">Contact Info: Greg W 919-903-5061 • Paul G 919-526-6820</text>
+</svg>

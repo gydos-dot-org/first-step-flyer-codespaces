@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8.5in" height="11in" viewBox="0 0 816 1056">
+ <defs>
+  <clipPath id="page"><rect x="18" y="18" width="780" height="1020"/></clipPath>
+  <clipPath id="hero"><rect x="22" y="22" width="772" height="315"/></clipPath>
+  <clipPath id="map"><rect x="22" y="586" width="414" height="402"/></clipPath>
+  <filter id="softGloom" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="8"/></filter>
+  <style>.s{font-family:"DejaVu Sans",Arial,sans-serif}.ser{font-family:"DejaVu Serif",Georgia,serif}</style>
+ </defs>
+ <rect width="816" height="1056" fill="#15191a"/>
+ <rect x="14" y="14" width="788" height="1028" fill="none" stroke="#737778" stroke-width="3"/>
+ <g clip-path="url(#page)">
+  <image x="22" y="22" width="772" height="386" xlink:href="generated/access-ramp-hero-v2.png" preserveAspectRatio="xMidYMid slice" clip-path="url(#hero)"/>
+  <!-- 220% of the prior displayed sign size, using the original photograph. -->
+  <image x="575" y="105" width="183" height="88" xlink:href="generated/first-step-sign-tight.jpg" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="22" y="22" width="772" height="315" fill="none" stroke="#b3b3b3"/>
+  <rect x="380" y="214" width="410" height="108" rx="24" fill="#292d2f" opacity=".5" filter="url(#softGloom)"/>
+  <text x="405" y="267" class="s" fill="#f1b72c" stroke="#f1b72c" stroke-width="1.5" paint-order="stroke" font-size="40" font-weight="900">TUESDAYS 11am</text>
+  <text x="405" y="301" class="s" fill="#fff" stroke="#171717" stroke-width="1.5" paint-order="stroke" font-size="15.5" font-weight="900">At <tspan fill="#f1b72c" stroke="#f1b72c" stroke-width="1.6">TRINITY UMC</tspan> in <tspan fill="#f1b72c" stroke="#f1b72c" stroke-width="1.6">DOWNTOWN DURHAM, NC</tspan></text>
+
+  <rect x="22" y="337" width="772" height="249" fill="#111719"/>
+  <text x="48" y="371" class="s" fill="#fff" font-size="17.5" font-weight="600">
+   <tspan x="48" dy="0" textLength="720" lengthAdjust="spacingAndGlyphs">The First Step Beginners AA Group holds a meeting at Trinity UMC in Downtown</tspan>
+   <tspan x="48" dy="27" textLength="720" lengthAdjust="spacingAndGlyphs">Durham, NC. We are unaffiliated with, but intentionally located near The Open Table</tspan>
+   <tspan x="48" dy="27" textLength="720" lengthAdjust="spacingAndGlyphs">Ministry’s Free Store and Resource Weekly Event. This was purposely done, as we</tspan>
+   <tspan x="48" dy="27" textLength="720" lengthAdjust="spacingAndGlyphs">hope to also be welcoming and accessible to the population that frequents the Open</tspan>
+   <tspan x="48" dy="27" textLength="720" lengthAdjust="spacingAndGlyphs">Table, a population that is often experiencing Housing Insecurity and Homelessness.</tspan>
+   <tspan x="48" dy="39">The First Step Beginners AA Group will discuss the first four steps with each</tspan>
+   <tspan x="48" dy="27">topic being anchored in official AA literature.</tspan>
+  </text>
+
+  <!-- Preserve the supplied accurate map; only the Church St. label is corrected by overlay. -->
+  <image x="22" y="586" width="414" height="384" xlink:href="generated/entrance-map-from-approved-draft.jpg" preserveAspectRatio="none"/>
+  <rect x="22" y="586" width="414" height="384" fill="none" stroke="#c2c2c2"/>
+  <!-- Only authorized edits within the otherwise frozen map artwork. -->
+  <rect x="207" y="596" width="92" height="63" rx="4" fill="#fff" opacity=".97"/>
+  <text x="216" y="610" class="s" fill="#111" font-size="10.5" font-weight="900">Bus stop: 4B</text>
+  <text x="216" y="628" class="s" fill="#111" font-size="10.5" font-weight="900">Morgan St at</text>
+  <text x="216" y="646" class="s" fill="#111" font-size="10.5" font-weight="900">Mangum St</text>
+  <!-- Owner-confirmed corrections to street names on the supplied map. -->
+  <rect x="338" y="619" width="25" height="77" rx="4" fill="#edf0ee" opacity=".96" transform="rotate(-16 350.5 657.5)"/>
+  <text x="354" y="657" class="s" fill="#222" stroke="#fff" stroke-width="3" paint-order="stroke" font-size="10.5" font-weight="800" text-anchor="middle" transform="rotate(74 354 657)">E. MORGAN ST.</text>
+  <text x="132" y="675" class="s" fill="#222" stroke="#fff" stroke-width="3" paint-order="stroke" font-size="10.5" font-weight="800" text-anchor="middle">E. CHAPEL HILL ST.</text>
+  <text x="286" y="675" class="s" fill="#222" stroke="#fff" stroke-width="3" paint-order="stroke" font-size="10.5" font-weight="800" text-anchor="middle">LIBERTY ST.</text>
+  <text x="276" y="867" class="s" fill="#fff" stroke="#3d185e" stroke-width="3" paint-order="stroke" font-size="12.5" font-weight="900" text-anchor="middle" transform="rotate(-47 276 867)">N. CHURCH ST.</text>
+  <text x="217" y="744" class="s" fill="#222" stroke="#fff" stroke-width="3.5" paint-order="stroke" font-size="11" font-weight="900" text-anchor="middle" transform="rotate(-47 217 744)">N. MANGUM ST.</text>
+
+  <rect x="436" y="586" width="358" height="384" fill="#fff"/>
+  <!-- Restored original-style guide icons and bold hierarchy. -->
+  <rect x="454" y="602" width="43" height="43" rx="8" fill="#0873c9"/>
+  <rect x="465" y="610" width="21" height="23" rx="3" fill="none" stroke="#fff" stroke-width="3"/><circle cx="469" cy="636" r="3" fill="#fff"/><circle cx="482" cy="636" r="3" fill="#fff"/>
+  <text x="511" y="619" class="s" fill="#0867bd" stroke="#0867bd" stroke-width="1" font-size="22" font-weight="900">BUS</text>
+  <text x="511" y="640" class="s" fill="#111" font-size="14.5" font-weight="800">Outbound GoDurham 4B to</text>
+  <text x="511" y="662" class="s" fill="#111" font-size="14.5" font-weight="800">Morgan St at Mangum St</text>
+
+  <rect x="454" y="685" width="43" height="43" rx="6" fill="#63358b"/>
+  <path d="M467 695h17v27h-17z M481 708l-7 5" fill="none" stroke="#fff" stroke-width="3"/><circle cx="477" cy="710" r="2" fill="#fff"/>
+  <text x="511" y="703" class="s" fill="#63358b" stroke="#63358b" stroke-width=".9" font-size="19.5" font-weight="900">MEETING ENTRANCE</text>
+  <text x="511" y="727" class="s" fill="#111" font-size="14.2" font-weight="800">215 N. Church St.</text>
+  <text x="458" y="754" class="s" fill="#111" font-size="14" font-weight="800">Follow the sign marked “ACCESS RAMP,”</text>
+  <text x="458" y="776" class="s" fill="#111" font-size="14" font-weight="800">then continue up the long ramp to the</text>
+  <text x="458" y="798" class="s" fill="#111" font-size="14" font-weight="800">entrance door at the top.</text>
+
+  <rect x="454" y="821" width="43" height="43" rx="8" fill="#15191a"/>
+  <circle cx="475.5" cy="842.5" r="14" fill="none" stroke="#fff" stroke-width="2"/><text x="475.5" y="850" class="s" fill="#fff" font-size="23" font-weight="800" text-anchor="middle">P</text>
+  <text x="511" y="841" class="s" fill="#111" stroke="#111" stroke-width="1" font-size="22" font-weight="900">PARKING</text>
+  <text x="458" y="885" class="s" fill="#111" font-size="14.5" font-weight="800">• Lot #8: $2.25/hr.</text>
+  <text x="458" y="909" class="s" fill="#111" font-size="14.5" font-weight="800">• Church St. Garage: First hour FREE,</text>
+  <text x="472" y="932" class="s" fill="#111" font-size="14.5" font-weight="800">then $2.25/hr.</text>
+
+  <rect x="22" y="970" width="772" height="68" fill="#15191a"/>
+  <line x1="424" y1="978" x2="424" y2="1033" stroke="#eee" stroke-width="1.5"/>
+  <text x="42" y="987" class="s" fill="#fff" font-size="12.5" font-weight="800">First Step Beginners AA Group meeting at</text>
+  <text x="42" y="1012" class="s" fill="#f1b72c" stroke="#f1b72c" stroke-width="1" font-size="21" font-weight="900">Trinity UMC</text>
+  <text x="42" y="1032" class="s" fill="#fff" font-size="13" font-weight="800">215 N Church St, Durham, NC 27701</text>
+  <text x="458" y="989" class="s" fill="#f1b72c" stroke="#f1b72c" stroke-width=".8" font-size="18" font-weight="900">Contact Info</text>
+  <text x="458" y="1011" class="s" fill="#fff" font-size="13.5" font-weight="800">Greg W 919-903-5061</text>
+  <text x="458" y="1031" class="s" fill="#fff" font-size="13.5" font-weight="800">Paul G 919-526-6820</text>
+ </g>
+</svg>

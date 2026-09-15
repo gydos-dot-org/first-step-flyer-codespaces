@@ -10,6 +10,11 @@
 - `originals/entrance-bus-parking-guide.png` — supplied bus, entrance, and
   parking map/guide; original upload name
   `y2026m09d01_BEST entrance bus and parking guide.png`; 1551 by 1014 pixels.
+- `originals/20260908_153053.jpg` — N. Church St. decision point with the
+  “ACCESS RAMP” sign and lower doorway.
+- `originals/3019.jpg` — wide view up the long access ramp to the meeting door.
+- `originals/3020.jpg` — closer landscape view of the door at the ramp’s top.
+- `originals/3021.jpg` — closer portrait view of the door at the ramp’s top.
 
 ## Drafts
 
@@ -23,4 +28,3 @@ history. They are references, not authoritative copy:
 
 The written current specification controls when a raster draft conflicts with
 later instructions.
-
